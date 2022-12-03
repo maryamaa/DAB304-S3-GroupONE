@@ -6,7 +6,7 @@ Group Members:
 
 This repository contains all jupyter notebooks, tableau files and datasets used in the final project
 
-Row	File Name	File Format
+File Name	& Format:
 1. DAB304-S3-Group1-FinalProject _Part1.ipynb (Because of the volume of the file (more than 25MB) we had to covert it to .zip)
 2. DAB304-S3-Group1-FinalProject _Part2.ipynb
 3. DAB304-S3-Group1-FinalProject-DeathCausesDistibution.twbx
